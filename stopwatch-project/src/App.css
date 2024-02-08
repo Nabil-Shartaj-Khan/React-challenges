@@ -1,0 +1,12 @@
+.input-box>input{
+  outline-style: none;
+  border: none;
+  margin: 20px;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+
+body{
+  background-color: burlywood;
+}
