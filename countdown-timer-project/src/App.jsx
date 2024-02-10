@@ -1,8 +1,8 @@
 import { useState } from "react";
 import "./App.css";
 import { useEffect } from "react";
-import Inputtimer from "../components/Inputtimer";
-import Showtimer from "../components/Showtimer";
+import Inputtimer from "./components/Inputtimer";
+import Showtimer from "./components/Showtimer";
 
 function App() {
   const [isStart, setisStart] = useState(false);
