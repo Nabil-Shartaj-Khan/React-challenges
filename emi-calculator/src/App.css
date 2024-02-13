@@ -1,0 +1,35 @@
+body{
+    background-color: #025464;
+    color: black;
+    
+}
+
+.calc{
+    height: 400px;
+    width: 480px;
+    margin: 100px auto;
+    background-color: white;
+    color: black;
+}
+
+.input{
+    margin: 0 40px;
+}
+
+p{
+    color: blue;
+}
+
+input{
+    width: 100%;
+    height:35px;
+    font-size: 20px;
+}
+
+.output{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
