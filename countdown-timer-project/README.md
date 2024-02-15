@@ -1,3 +1,7 @@
+_ABOUT PROJECT_
+
+Countdown timer where user can input hour, minutes and seconds. When the time will be up, a notification will be shown.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
