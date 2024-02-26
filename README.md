@@ -7,5 +7,6 @@ React projects for react demonstration from frontendval-
 5. Undo-able counter
 6. Shopping cart
 7. Multi-step-form
-6. Shopping-cart
+8. Drag and drop to do
+9. Image carousel
 
