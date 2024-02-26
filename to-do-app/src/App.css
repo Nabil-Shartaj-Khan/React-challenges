@@ -1,0 +1,90 @@
+.show-task{
+  width: 100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.to-do{
+  width: 33%;
+height: 400px;
+}
+
+.doing{
+  width: 33%;
+height: 400px;
+}
+
+.done{
+  width: 33%;
+  height: 400px;
+}
+
+.todo-col{
+  background-color: rgb(160, 69, 46);
+  padding: 10px 0px;
+  margin: 0px 10px;
+
+}
+.doing-col{
+  background-color: rgb(23, 163, 163);
+  padding: 10px 0px;
+  margin: 0px 10px;
+
+}
+.done-col{
+  background-color: rgb(60, 184, 23);
+  padding: 10px 0px;
+  margin: 0px 10px;
+ 
+
+}
+
+.task-item{
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+  padding: 30px;
+  cursor: grab;
+  font-size: 20px;
+  margin: 10px 0px;
+
+}
+
+.task-item:hover{
+  background-color: lightcoral;
+}
+
+.btn{
+  padding: 15px;
+
+
+
+}
+
+.btn:hover{
+  background-color: aqua;
+  cursor: pointer;
+  border-radius: 20%;
+}
+
+
+.task-done{
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+  padding: 30px;
+  cursor: grab;
+  font-size: 20px;
+  margin: 10px 0px;
+  text-decoration: line-through;
+}
+
+.task-done:hover{
+  background-color: black;
+  color:white;
+}
