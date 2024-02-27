@@ -9,4 +9,6 @@ React projects for react demonstration from frontendval-
 7. Multi-step-form
 8. Drag and drop to do
 9. Image carousel
+10. OTP input
+    
 
