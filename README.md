@@ -10,5 +10,6 @@ React projects for react demonstration from frontendval-
 8. Drag and drop to do
 9. Image carousel
 10. OTP input
+11. Calculator
     
 
