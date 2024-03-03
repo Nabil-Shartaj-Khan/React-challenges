@@ -11,5 +11,7 @@ React projects for react demonstration from frontendval-
 9. Image carousel
 10. OTP input
 11. Calculator
+12. Star rating
+13. Bar chart
     
 
